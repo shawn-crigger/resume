@@ -12,6 +12,7 @@
   .hero-img {
     width:50%;
     border-radius: 50%;
+    padding-top: 50px;
   }
 
 /* ==========================================================================
@@ -53,6 +54,39 @@ ul.ranking {
   </head>
   <body>
 
+
+
+<nav class="top-bar" data-topbar>
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="#">My Resume</a></h1>
+    </li>
+    <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+  </ul>
+
+<!-- Right Nav Section -->
+<!--
+  <section class="top-bar-section">
+
+    <ul class="right">
+      <li class="active"><a href="#">Right Button Active</a></li>
+      <li class="has-dropdown">
+        <a href="#">Right Button Dropdown</a>
+        <ul class="dropdown">
+          <li><a href="#">First link in dropdown</a></li>
+        </ul>
+      </li>
+    </ul>
+-->
+
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li><a href="#">Left Nav Button</a></li>
+    </ul>
+  </section>
+</nav>
+
+<!--
     <div class="row">
       <div class="large-12 columns">
       	<div class="panel">
@@ -77,6 +111,8 @@ ul.ranking {
       	</div>
       </div>
     </div>
+-->
+
 
     <div class="row clearfix">
       <div class="large-4 medium-4 columns">
