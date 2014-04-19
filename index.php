@@ -33,7 +33,10 @@
 
 
     <div class="row clearfix">
-      <div class="large-4 medium-4 columns">
+      <div class="large-4 medium-4 columns clearfix">
+        <p class="right">
+          <img src="/img/heroshot.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
+        </p>
         <ul class="vcard left">
           <li class="fn">Shawn Crigger</li>
           <li class="street-address">2400 Douglas St.</li>
@@ -41,10 +44,6 @@
           <li><span class="state">South Carolina</span>, <span class="zip">29582</span></li>
           <li class="email"><a href="#">ithippyshawn@</a></li>
         </ul>
-
-        <p>
-          <img src="/img/heroshot.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
-        </p>
       </div>
 
 
