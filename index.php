@@ -10,9 +10,10 @@
 <style>
 
   .hero-img {
-    width:50%;
+    width: 60%;
     border-radius: 50%;
-    padding-top: 50px;
+    margin-top: 68px;
+    margin-left: 75px;
   }
 
 /* ==========================================================================
@@ -80,10 +81,13 @@ ul.ranking {
 -->
 
     <!-- Left Nav Section -->
+<!--
     <ul class="left">
       <li><a href="#">Left Nav Button</a></li>
     </ul>
+
   </section>
+-->
 </nav>
 
 <!--
@@ -150,7 +154,7 @@ ul.ranking {
   -->
 
     </div> <!-- end row -->
-
+<hr/>
     <div class="row">
       <div class="large-4 medium-4 columns">
         <h3 style="padding-left: 30%;">Skill Levels</h3>
@@ -178,6 +182,7 @@ ul.ranking {
       </div>
     </div> <!-- end row -->
 
+<hr/>
     <div class="row">
 
 
