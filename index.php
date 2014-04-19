@@ -34,20 +34,13 @@
 
     <div class="row clearfix">
       <div class="large-4 medium-4 columns clearfix">
-        <p class="right">
+        <p>
           <img src="/img/heroshot.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
         </p>
-        <ul class="vcard left">
-          <li class="fn">Shawn Crigger</li>
-          <li class="street-address">2400 Douglas St.</li>
-          <li class="locality">North Myrtle Beach</li>
-          <li><span class="state">South Carolina</span>, <span class="zip">29582</span></li>
-          <li class="email"><a href="#">ithippyshawn@</a></li>
-        </ul>
       </div>
 
 
-      <div class="large-8 medium-6 columns">
+      <div class="large-6 medium-6 columns">
 
         <h3>Career Objective</h3>
           <p class="ptext">
@@ -56,6 +49,18 @@
           My goal is to work for a quality web development company, preferably in the local music industry, or any web development company as a senior level PHP programmer.
           </p>
       </div>
+
+      <div class="large-2 medium-2 columns">
+      <h3>Contact Information</h3>
+        <ul class="vcard">
+          <li class="fn">Shawn Crigger</li>
+          <li class="street-address">2400 Douglas St.</li>
+          <li class="locality">North Myrtle Beach</li>
+          <li><span class="state">South Carolina</span>, <span class="zip">29582</span></li>
+          <li class="email"><a href="#">ithippyshawn@</a></li>
+        </ul>
+      </div>
+
 <!--
       <div class="large-4 medium-4 columns">
 			  <h5>Try one of these buttons:</h5>
