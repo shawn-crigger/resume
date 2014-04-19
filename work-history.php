@@ -7,7 +7,7 @@
 	<h2>Work History</h2>
 
     <div class="row">
-      <div class="large-4 medium-4 columns">
+      <div class="large-4 medium-4 columns work-history">
       	<h3>Eagle Web Designs, Inc</h3>
 		<strong>2009 - 2012 - Full Stack Web Developer</strong><br/>
 		<p class="ptext">
@@ -15,7 +15,7 @@
 		</p>
 	  </div>
 
-	  <div class="large-4 medium-4 work-history">
+	  <div class="large-4 medium-4 columns work-history">
 	  	<h3>Achievements</h3>
 				  	<ul class="job-achivements">
 					 <li>Created CMS as back-bone for almost all web sites</li>
@@ -24,7 +24,8 @@
 					 <li>Migrated websites from previous server to new servers</li>
 					 <li>Repaired any server issues, security issues, and kept all software up to date</li>
 					</ul>
-
+	  </div>
+	  <div class="large-4 medium-4 columns work-history">
 					<h3>Websites I built at EWD</h3>
 
 					<ul class="portfolio-links">
@@ -46,7 +47,7 @@
   		</div>
 
     <div class="row">
-      <div class="large-4 medium-4 columns">
+      <div class="large-4 medium-4 columns work-history">
   				<h3>Peachtree Electric</h3>
   				<strong>1997 - 2003 - Electrician Helper, Service Electrician</strong><br />
   				<p class="ptext">
@@ -57,7 +58,7 @@
   				</p>
   			</div>
 
-        	<div class="large-4 medium-4 columns">
+        	<div class="large-4 medium-4 columns work-history">
 				<h3>Sandpiper HVAC</h3>
 				<strong>2003 - 2007 - HVAC Service Tech and Installer</strong><br/>
 				<p class="ptext">
@@ -68,7 +69,7 @@
 				</p>
 			</div>
 
-  			<div class="large-4 medium-4 columns">
+  			<div class="large-4 medium-4 columns work-history">
   				<h3>Free Lance Web Developer</h3>
   				<strong>2006 - 2009</strong><br />
   				<p class="ptext">
@@ -82,7 +83,7 @@
 
 
         <div class="row">
-  			<div class="large-4 medium-4 columns">
+  			<div class="large-4 medium-4 columns work-history">
   				<h3>Freelance Developer</h3>
   				<strong>2012-2014</strong><br />
   				<p class="ptext">
