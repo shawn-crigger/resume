@@ -65,9 +65,10 @@ ul.ranking {
     <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
   </ul>
 
+  <section class="top-bar-section">
 <!-- Right Nav Section -->
 <!--
-  <section class="top-bar-section">
+
 
     <ul class="right">
       <li class="active"><a href="#">Right Button Active</a></li>
@@ -81,9 +82,9 @@ ul.ranking {
 -->
 
     <!-- Left Nav Section -->
-<!--
+
     <ul class="left">
-      <li><a href="#">Left Nav Button</a></li>
+      <li><a href="/work-history.php">Work History</a></li>
     </ul>
 
   </section>
