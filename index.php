@@ -55,12 +55,6 @@ ul.ranking {
 
     <div class="row">
       <div class="large-12 columns">
-        <h1>Dready Crigger's Resume</h1>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="large-12 columns">
       	<div class="panel">
 	        <h3>I am stoked you have a few moments to look over my resume! </h3>
 
@@ -84,9 +78,15 @@ ul.ranking {
       </div>
     </div>
 
-    <div class="row">
+    <div class="row clearfix">
+      <div class="large-4 medium-4 columns">
+        <p>
+          <img src="/img/heroshot.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
+        </p>
+      </div>
 
-      <div class="large-8 medium-8 columns">
+
+      <div class="large-8 medium-6 columns">
 
         <h3>Career Objective</h3>
           <p class="ptext">
