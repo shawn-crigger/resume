@@ -44,6 +44,7 @@
 					 <li><a href="http://www.thescentshoppe.com/">The Scent Shoppe</a></li>
 					 </ul>
 			</div>
+			<hr/>
   		</div>
 
     <div class="row">
@@ -78,7 +79,7 @@
 					was a very small web development company that I ran at night after I got off work.  It mostly worked on vBulletin systems as that is what I was building modifications and things for and releasing on vBulletin.ORG
   				</p>
   			</div>
-
+  			<hr/>
   		</div>
 
 
@@ -90,7 +91,7 @@
   				Currently I am working as a Freelance developer, doing everything from Computer Repair, Server Setups, Small Web Projects, Tech Support, and any programming project involving PHP or JavaScript.  Mostly working with Wordpress and CodeIgniter based projects lately.
   				</p>
   			</div>
-
+  			<hr/>
   		</div>
 
 
