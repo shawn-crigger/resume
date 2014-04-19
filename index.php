@@ -34,12 +34,7 @@
 
     <div class="row clearfix">
       <div class="large-4 medium-4 columns">
-        <p>
-          <img src="/img/heroshot.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
-        </p>
-
-
-        <ul class="vcard">
+        <ul class="vcard left">
           <li class="fn">Shawn Crigger</li>
           <li class="street-address">2400 Douglas St.</li>
           <li class="locality">North Myrtle Beach</li>
@@ -47,6 +42,9 @@
           <li class="email"><a href="#">ithippyshawn@</a></li>
         </ul>
 
+        <p>
+          <img src="/img/heroshot.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
+        </p>
       </div>
 
 
