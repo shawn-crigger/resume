@@ -37,6 +37,16 @@
         <p>
           <img src="/img/heroshot.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
         </p>
+
+
+        <ul class="vcard">
+          <li class="fn">Shawn Crigger</li>
+          <li class="street-address">2400 Douglas St.</li>
+          <li class="locality">North Myrtle Beach</li>
+          <li><span class="state">South Carolina</span>, <span class="zip">29582</span></li>
+          <li class="email"><a href="#">ithippyshawn@</a></li>
+        </ul>
+
       </div>
 
 
@@ -102,6 +112,4 @@
 
     </div> <!-- end row -->
 
-<?php
-  include './inc/footer.php';
-?>
+<?php include './inc/footer.php'; ?>

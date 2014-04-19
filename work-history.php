@@ -4,7 +4,10 @@
 
 ?>
 
-	<h2>Work History</h2>
+	<div class="panel callout radius">
+	  <h2>Work History</h2>
+	</div>
+
 
     <div class="row">
       <div class="large-4 medium-4 columns work-history">
