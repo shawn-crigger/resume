@@ -1,95 +1,8 @@
-<!doctype html>
-<html class="no-js" lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Dready Crigger's Resume</title>
-    <link rel="stylesheet" href="css/foundation.css" />
-    <script src="js/vendor/modernizr.js"></script>
+<?php
+  include './inc/head.php';
+  include './inc/topbar.php';
 
-<style>
-
-  .hero-img {
-    width: 60%;
-    border-radius: 50%;
-    margin-top: 68px;
-    margin-left: 75px;
-  }
-
-/* ==========================================================================
-   Star Ratings
-   ========================================================================== */
-
-ul.ranking {
-    list-style: none;
-    /* width: 350px; */
-}
-
-.ranking > li {
-    font-size: 1.7em;
-    line-height: 1.7;
-    font-weight: bold;
-    text-align: right;
-}
-
-.ranking > li > span { margin-left: 20px;}
-
-
-[class*='star-'] {
-  color: #999;
-}
-
-
-.rating {
-  unicode-bidi: bidi-override;
-  direction: rtl;
-}
-.rating > span {
-  display: inline-block;
-  position: relative;
-  width: 1.1em;
-}
-
-
-</style>
-  </head>
-  <body>
-
-
-
-<nav class="top-bar" data-topbar>
-  <ul class="title-area">
-    <li class="name">
-      <h1><a href="#">My Resume</a></h1>
-    </li>
-    <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-  </ul>
-
-  <section class="top-bar-section">
-<!-- Right Nav Section -->
-<!--
-
-
-    <ul class="right">
-      <li class="active"><a href="#">Right Button Active</a></li>
-      <li class="has-dropdown">
-        <a href="#">Right Button Dropdown</a>
-        <ul class="dropdown">
-          <li><a href="#">First link in dropdown</a></li>
-        </ul>
-      </li>
-    </ul>
--->
-
-    <!-- Left Nav Section -->
-
-    <ul class="left">
-      <li><a href="/work-history.php">Work History</a></li>
-    </ul>
-
-  </section>
--->
-</nav>
+?>
 
 <!--
     <div class="row">
@@ -189,14 +102,6 @@ ul.ranking {
 
     </div> <!-- end row -->
 
-
-
-
-
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
-  </body>
-</html>
+<?php
+  include './inc/footer.php';
+?>

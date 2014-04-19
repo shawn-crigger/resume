@@ -1,0 +1,40 @@
+  .hero-img {
+    width: 60%;
+    border-radius: 50%;
+    margin-top: 68px;
+    margin-left: 75px;
+  }
+
+/* ==========================================================================
+   Star Ratings
+   ========================================================================== */
+
+ul.ranking {
+    list-style: none;
+    /* width: 350px; */
+}
+
+.ranking > li {
+    font-size: 1.7em;
+    line-height: 1.7;
+    font-weight: bold;
+    text-align: right;
+}
+
+.ranking > li > span { margin-left: 20px;}
+
+
+[class*='star-'] {
+  color: #999;
+}
+
+
+.rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+}

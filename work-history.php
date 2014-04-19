@@ -1,50 +1,10 @@
-<!doctype html>
-<html class="no-js" lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Dready Crigger's Resume</title>
-    <link rel="stylesheet" href="css/foundation.css" />
-    <script src="js/vendor/modernizr.js"></script>
+<?php
+  include './inc/head.php';
+  include './inc/topbar.php';
 
+?>
 
-		<!-- Start work history -->
-<nav class="top-bar" data-topbar>
-  <ul class="title-area">
-    <li class="name">
-      <h1><a href="#">My Resume</a></h1>
-    </li>
-    <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-  </ul>
-
-  <section class="top-bar-section">
-<!-- Right Nav Section -->
-<!--
-
-
-    <ul class="right">
-      <li class="active"><a href="#">Right Button Active</a></li>
-      <li class="has-dropdown">
-        <a href="#">Right Button Dropdown</a>
-        <ul class="dropdown">
-          <li><a href="#">First link in dropdown</a></li>
-        </ul>
-      </li>
-    </ul>
--->
-
-    <!-- Left Nav Section -->
-
-    <ul class="left">
-      <li><a href="/work-history.php">Work History</a></li>
-    </ul>
-
-  </section>
--->
-</nav>
-
-
-		<h2>Work History</h2>
+	<h2>Work History</h2>
 
     <div class="row">
       <div class="large-4 medium-4 columns">
@@ -133,13 +93,4 @@
   		</div>
 
 
-
-
-
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
-  </body>
-</html>
+<?php include './inc/footer.php'; ?>
