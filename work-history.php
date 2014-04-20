@@ -60,30 +60,35 @@
   				My tasks as a project manager was to set up teams doing various jobs to get the projects done.  I also worked doing the harder more complicated tasks
   				during this time.
   				</p>
-  			</div>
+  		</div>
+		<hr/>
+  	</div>
 
-        	<div class="large-4 medium-4 columns work-history">
-				<h3>Sandpiper HVAC</h3>
-				<strong>2003 - 2007 - HVAC Service Tech and Installer</strong><br/>
+	<div class="row">
+    	<div class="large-4 medium-4 columns work-history">
+			<h3>Sandpiper HVAC</h3>
+			<strong>2003 - 2007 - HVAC Service Tech and Installer</strong><br/>
+			<p class="ptext">
+			I started as a project manager for Ocean Keys Condo in NMB, SC.  My tasks were to order stock, set up tasks for each team to do every day.
+			I also sweated all copper connections, hooked up and started up all units.  Any many other tasks needed to be done.<br>
+			While managing this project and a housing project i was also a Service Tech which involved driving to a customers house, fixing there Heat or Air depending on the needs.
+			If a new unit was to be installed, I sold the unit and normally installed it also.
+			</p>
+		</div>
+		<hr/>
+	</div>
+	<div class="row">
+			<div class="large-4 medium-4 columns work-history">
+				<h3>Free Lance Web Developer</h3>
+				<strong>2006 - 2009</strong><br />
 				<p class="ptext">
-				I started as a project manager for Ocean Keys Condo in NMB, SC.  My tasks were to order stock, set up tasks for each team to do every day.
-				I also sweated all copper connections, hooked up and started up all units.  Any many other tasks needed to be done.<br>
-				While managing this project and a housing project i was also a Service Tech which involved driving to a customers house, fixing there Heat or Air depending on the needs.
-				If a new unit was to be installed, I sold the unit and normally installed it also.
+				While working as a HVAC Service tech,  I created a very large online community based on online game cheating which used a Pascal based language in a custom compiler.
+				After modifying and running the forums for a few years,  and having lost total interest in the game I was developing the cheat for, I started ShawnC.org which
+				was a very small web development company that I ran at night after I got off work.  It mostly worked on vBulletin systems as that is what I was building modifications and things for and releasing on vBulletin.ORG
 				</p>
 			</div>
-
-  			<div class="large-4 medium-4 columns work-history">
-  				<h3>Free Lance Web Developer</h3>
-  				<strong>2006 - 2009</strong><br />
-  				<p class="ptext">
-					While working as a HVAC Service tech,  I created a very large online community based on online game cheating which used a Pascal based language in a custom compiler.
-					After modifying and running the forums for a few years,  and having lost total interest in the game I was developing the cheat for, I started ShawnC.org which
-					was a very small web development company that I ran at night after I got off work.  It mostly worked on vBulletin systems as that is what I was building modifications and things for and releasing on vBulletin.ORG
-  				</p>
-  			</div>
-  			<hr/>
-  		</div>
+			<hr/>
+		</div>
 
 
         <div class="row">

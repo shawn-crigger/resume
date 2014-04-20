@@ -35,7 +35,7 @@
     <div class="row clearfix">
       <div class="large-4 medium-4 columns clearfix">
         <p>
-          <img src="/img/heroshot.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
+          <img src="/img/heroshot-3.jpg" class="hero-img" alt="Picture of Shawn Crigger" />
         </p>
       </div>
 
@@ -44,7 +44,7 @@
 
         <h3>Career Objective</h3>
           <p class="ptext">
-          I am a normal geek who has a deep interest in energy and electricity.  I am a natural at the art of diagnosing anything in my world, which has made me a great service tech.  I am a completely self taught computer programmer, creator, coder and craftsmen. Other then computers, I like music, nature, oceans and life!<br>
+          I am a normal geek who has a deep interest in energy and electricity.  I am a natural at the art of diagnosing anything in my world, which has made me a great service tech.  I am a completely self taught computer programmer, creator, coder and craftsmen. Other than computers, I like music, nature, oceans and life!<br>
           My passion for developing websites, building servers, and hopefully promoting music in some way makes me a very positive happy person which brings great energy into your company.  Add to that the years of experience I have under my belt, my willingness to learn or to teach depending on what you need.  <br>
           My goal is to work for a quality web development company, preferably in the local music industry, or any web development company as a senior level PHP programmer.
           </p>
