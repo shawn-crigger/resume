@@ -2,24 +2,28 @@
   include './inc/head.php';
   include './inc/topbar.php';
 ?>
-		<div class="row">
+		<section class="row">
 			<div class="large-12 medium-12 columns center">
 				<div class="panel callout radius">
 					<h2>Work History</h2>
 					<strong>This is still under serious work. Don't judge!</strong>
 				</div>
 			</div>
-		</div>
+		</section>
 
-		<div class="row">
+		<section class="row">
+
 			<div class="large-4 medium-4 columns work-history">
-				<h3>
-					Eagle Web Designs, Inc
-				</h3><strong>2009 - 2012 - Full Stack Web Developer</strong><br>
+				<h3><a href="http://eaglewebdesigns.com/">Eagle Web Designs, Inc</a></h3>
+				<strong>2009 - 2012 - Full Stack Web Developer</strong>
+				<br>
 				<p class="ptext">
-					I started at EWD as a free-lance programmer doing odd jobs at first then moved to in house senior programmer. Over the years I worked there, I created many very large website's for Real Estate Agency's, Nightclubs, Property Management Company, and anything else that came up. I also fixed issues with servers, troubleshot bugs with existing code, everything but design.
+					I started at Eagle Web Designs as a free-lance programmer doing odd jobs at first then moved to in house senior programmer.
+					Over the years I worked there, I created many very large website's for Real Estate Agency's, Nightclubs, Property Management Company,
+					and anything else that came up. I also fixed issues with servers, troubleshot bugs with existing code, everything but design.
 				</p>
 			</div>
+
 			<div class="large-4 medium-4 columns work-history">
 				<h3>
 					Achievements
@@ -37,6 +41,7 @@
 					</li>
 				</ul>
 			</div>
+
 			<div class="large-4 medium-4 columns work-history">
 				<h3>
 					Websites I built at EWD
@@ -58,7 +63,8 @@
 						<a href="http://www.isleofcandles.com">Isle of Candles</a>
 					</li>
 					<li>
-						<a href="http://www.ngatour.com/">NGA Tour</a>
+
+						<a href="http://www.ngahooterstour.com/">NGA Tour</a>
 					</li>
 					<li>
 						<a href="http://www.myrtlebeachsafari.com">Myrtle Beach Safari</a>
@@ -72,9 +78,9 @@
 				</ul>
 			</div>
 			<hr>
-		</div>
-		<div class="row">
-			<div class="large-4 medium-4 columns work-history">
+		</section> <!-- end row -->
+		<section class="row">
+			<div class="large-6 medium-5 columns work-history">
 				<h3>
 					Peachtree Electric
 				</h3><strong>1997 - 2003 - Electrician Helper, Service Electrician</strong><br>
@@ -98,9 +104,9 @@
 				</ul>
 			</div>
 			<hr>
-		</div>
-		<div class="row">
-			<div class="large-4 medium-4 columns work-history">
+		</section>
+		<section class="row">
+			<div class="large-6 medium-5 columns work-history">
 				<h3>
 					Sandpiper HVAC
 				</h3><strong>2003 - 2007 - HVAC Service Tech and Installer</strong><br>
@@ -126,9 +132,9 @@
 				</ul>
 			</div>
 			<hr>
-		</div>
-		<div class="row">
-			<div class="large-4 medium-4 columns work-history">
+		</section>
+		<section class="row">
+			<div class="large-6 medium-5 columns work-history">
 				<h3>
 					Free Lance Web Developer
 				</h3><strong>2006 - 2009</strong><br>
@@ -152,9 +158,9 @@
 				</ul>
 			</div>
 			<hr>
-		</div>
-		<div class="row">
-			<div class="large-4 medium-4 columns work-history">
+		</section>
+		<section class="row">
+			<div class="large-6 medium-5 columns work-history">
 				<h3>
 					Freelance Developer
 				</h3><strong>2012-2014</strong><br>
@@ -163,5 +169,5 @@
 				</p>
 			</div>
 			<hr>
-		</div>
+		</section>
 <?php include './inc/footer.php'; ?>

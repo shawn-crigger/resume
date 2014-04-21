@@ -1,9 +1,50 @@
-  .hero-img {
-    width: 60%;
-    border-radius: 50%;
-    margin-top: 68px;
-    margin-left: 75px;
-  }
+.hero-img {
+  width: 60%;
+  border-radius: 50%;
+  margin-top: 68px;
+  margin-left: 75px;
+}
+
+
+.work-history > h3,
+.section-text > h3 {
+  color: #444;
+  border-bottom: 1px solid #999;
+}
+
+.work-history > p,
+.section-text > p {
+  font-size: 1em;
+  color: #444;
+}
+
+
+/* ==========================================================================
+   Job Achievement UL
+   ========================================================================== */
+
+
+ul.job-achivements
+{
+  list-style-type: none;
+}
+
+ul.job-achivements li
+{
+  text-indent: -1.4em;
+}
+
+ul.job-achivements li:before
+{
+  font-family: "GeneralFoundicons";
+  content: "\f002";
+  font-size: 0.8em;
+  float: left;
+  width: 1.4em;
+  margin-top: 2px;
+}
+
+
 
 /* ==========================================================================
    Star Ratings
@@ -19,6 +60,11 @@ ul.ranking {
     line-height: 1.7;
     font-weight: bold;
     text-align: right;
+}
+
+.ranking > li > i {
+  font-size:1em;
+  color: #444;
 }
 
 .ranking > li > span { margin-left: 20px;}
