@@ -55,8 +55,8 @@
   				<h3>Peachtree Electric</h3>
   				<strong>1997 - 2003 - Electrician Helper, Service Electrician</strong><br />
   				<p class="ptext">
-  				I started as a green helper, doing commercial electric.  From 1997 - 2000 I worked as a service helper, and store up fits.
-  				In 2000, I worked a a Assistance project manager for a Large Condo project I also took the classes and got my  Journeymen Electrician license
+  				I started as a green helper, doing commercial electric.  From 1997 - 2000 I worked as a service tech helper, and did commerical new construction.
+  				In 2003, I worked a a Assistance project manager for a Large Condo project, I also took the classes and got my Journeymen Electrician license scoring a 98%
   				My tasks as a project manager was to set up teams doing various jobs to get the projects done.  I also worked doing the harder more complicated tasks
   				during this time.
   				</p>
@@ -69,14 +69,31 @@
 			<h3>Sandpiper HVAC</h3>
 			<strong>2003 - 2007 - HVAC Service Tech and Installer</strong><br/>
 			<p class="ptext">
-			I started as a project manager for Ocean Keys Condo in NMB, SC.  My tasks were to order stock, set up tasks for each team to do every day.
-			I also sweated all copper connections, hooked up and started up all units.  Any many other tasks needed to be done.<br>
-			While managing this project and a housing project i was also a Service Tech which involved driving to a customers house, fixing there Heat or Air depending on the needs.
-			If a new unit was to be installed, I sold the unit and normally installed it also.
+			I started as a project manager for Ocean Keys Condo in NMB, SC.  In less then a years time I was also running Service Calls, Change Outs, and New Construction in
+			multi-family and single-family dwelling projects.
 			</p>
 		</div>
+
+	<div class="large-4 medium-4 columns work-history">
+		<h3>Achievements</h3>
+		<ul class="job-achivements">
+			<li>Plan what needed to be done each day for up to 5 different teams of workers</li>
+			<li>Fabricate Metal, Braze Copper Connections, Start up Units</li>
+			<li>Order stock needed for all the different new construction projects</li>
+			<li>Take Service Calls at all hours, troubleshoot and repair units</li>
+			<li>Sold new units and installed them if the broken unit was beyond repair</li>
+			<li></li>
+			<li></li>
+			<li></li>
+
+		</ul>
+	  </div>
+
 		<hr/>
 	</div>
+
+
+
 	<div class="row">
 			<div class="large-4 medium-4 columns work-history">
 				<h3>Free Lance Web Developer</h3>
