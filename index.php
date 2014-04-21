@@ -57,8 +57,11 @@
   -->
         </section><!-- end row -->
         <hr>
+
+
+
         <section class="row">
-            <div class="large-4 medium-4 columns section-text">
+            <div class="large-5 medium-5 columns section-text">
                 <h3 style="padding-left: 30%;">
                     Skill Levels
                 </h3>
@@ -73,29 +76,44 @@
                     </li>
                     <li class="clearfix">
                       <span class="left">
-                      JavaScript
-                    </span>
+                      MySQL
+                      </span>
                       <span class="right">
                         <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
                       </span>
+                    </li>
 
+                    <li class="clearfix">
+                      <span class="left">
+                      JavaScript
+                      </span>
+                      <span class="right">
+                        <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                      </span>
                     </li>
-                    <li>CSS3
+                    <li class="clearfix">
+                      <span class="left">
+                      CSS3
+                      </span>
                       <span class="right">
                         <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
                       </span>
                     </li>
-                    <li>HTML5
+                    <li class="clearfix">
+                        <span class="left">HTML5
+                      </span>
                       <span class="right">
                         <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
                       </span>
                     </li>
-                    <li>XHTML
+                    <li class="clearfix">
+                    <span class="left">XHTML</span>
                       <span class="right">
                         <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
                       </span>
                     </li>
-                    <li>Servers
+                    <li class="clearfix">
+                      <span class="left">Servers</span>
                       <span class="right">
                         <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
                       </span>
@@ -103,7 +121,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="large-8 medium-6 columns section-text">
+            <div class="large-7 medium-6 columns section-text">
                 <h3>
                     Programming Languages
                 </h3>
