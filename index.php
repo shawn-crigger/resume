@@ -56,13 +56,21 @@
 
   -->
         </section><!-- end row -->
-        <hr>
-
-
 
         <section class="row">
+
+            <div class="large-7 medium-6 columns section-text">
+                <h3>
+                    Programming Languages
+                </h3>
+                <p>
+                    &nbsp;&nbsp;With PHP, I prefer to write class based module code, as I find it more reusable and cleaner. JavaScript I can write without a framework if it's something that a framework would be overkill on size, I also am very familiar with jQuery and MooTools, also Ender and some of the newer micro libraries. I have released many jQuery and MooTools snippets and plugins that were released open source. Linux servers, I love working on servers and have built and maintained many of them for my personal use or business use. I also love building computers and hacking hardware, I currently have 2 servers in my house just for home media centers. General IT support, I can install software, remove software, viruses, malware, reinstall OSes, hook up your wifi printer, build a NAS device for your home network, whatever the job requires. I do quite a bit of free lance general IT support currently.
+                </p>
+            </div>
+
+
             <div class="large-5 medium-5 columns section-text">
-                <h3 style="padding-left: 30%;">
+                <h3>
                     Skill Levels
                 </h3>
                 <ul class="ranking clearfix">
@@ -121,16 +129,11 @@
                     </li>
                 </ul>
             </div>
-            <div class="large-7 medium-6 columns section-text">
-                <h3>
-                    Programming Languages
-                </h3>
-                <p>
-                    With PHP, I prefer to write class based module code, as I find it more reusable and cleaner. JavaScript I can write without a framework if it's something that a framework would be overkill on size, I also am very familiar with jQuery and MooTools, also Ender and some of the newer micro libraries. I have released many jQuery and MooTools snippets and plugins that were released open source. Linux servers, I love working on servers and have built and maintained many of them for my personal use or business use. I also love building computers and hacking hardware, I currently have 2 servers in my house just for home media centers. General IT support, I can install software, remove software, viruses, malware, reinstall OSes, hook up your wifi printer, build a NAS device for your home network, whatever the job requires. I do quite a bit of free lance general IT support currently.
-                </p>
-            </div>
+
+
+
         </section><!-- end row -->
-        <hr>
+
         <section class="row"></section><!-- end row -->
 
 <?php include './inc/footer.php'; ?>
