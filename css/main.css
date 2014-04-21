@@ -11,6 +11,15 @@ div.contain-to-grid {
   margin-left: 75px;
 }
 
+.work-history > h3 > a {
+  color: #444;
+}
+
+.work-history > h3 > a:hover,
+.work-history > h3 > a:focus {
+  color: #999;
+}
+
 
 .work-history > h3,
 .section-text > h3 {
