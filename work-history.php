@@ -55,12 +55,23 @@
   				<h3>Peachtree Electric</h3>
   				<strong>1997 - 2003 - Electrician Helper, Service Electrician</strong><br />
   				<p class="ptext">
-  				I started as a green helper, doing commercial electric.  From 1997 - 2000 I worked as a service tech helper, and did commerical new construction.
-  				In 2003, I worked a a Assistance project manager for a Large Condo project, I also took the classes and got my Journeymen Electrician license scoring a 98%
-  				My tasks as a project manager was to set up teams doing various jobs to get the projects done.  I also worked doing the harder more complicated tasks
-  				during this time.
+  				I started as a green helper, doing commerical electric mostly service work but also lots of new commerical construction.  My craftsmenship is still seen daily in
+  				many stores, malls, outlets and resturants in the Grand Strand Area.
   				</p>
   		</div>
+
+  		<div class="large-4 medium-4 columns work-history">
+			<h3>Achievements</h3>
+			<ul class="job-achivements">
+				<li>Took Journeymen Electrician License test, scoring a 98%</li>
+				<li>Project manager in early 2003 for a multi-family dwelling project</li>
+				<li>Troubleshooting, and Repair any electrical problem.</li>
+				<li>Calculating power loads on new dwellings, pulling wire, installing fixtures, all of it.</li>
+			<li></li>
+			<li></li>
+
+			</ul>
+	  	</div>
 		<hr/>
   	</div>
 
@@ -105,6 +116,18 @@
 				</p>
 			</div>
 			<hr/>
+
+
+	<div class="large-4 medium-4 columns work-history">
+		<h3>Achievements</h3>
+		<ul class="job-achivements">
+			<li>Created a huge community of online gamers, that I made money off of.</li>
+			<li>Learned alot about web development, which meshed well with my years of programming XP</li>
+			<li>Released many mods and themes for vBulletin Forum Software</li>
+			<li>Lots of vBulletin based jobs were completed during these years.</li>
+		</ul>
+	  </div>
+
 		</div>
 
 
