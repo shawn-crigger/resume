@@ -62,18 +62,44 @@
                 <h3 style="padding-left: 30%;">
                     Skill Levels
                 </h3>
-                <ul class="ranking">
-                    <li>PHP<i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                <ul class="ranking clearfix">
+                    <li class="clearfix">
+                      <span class="left">
+                      PHP
+                      </span>
+                      <span class="right">
+                        <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                      </span>
                     </li>
-                    <li>JavaScript<i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                    <li class="clearfix">
+                      <span class="left">
+                      JavaScript
+                    </span>
+                      <span class="right">
+                        <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                      </span>
+
                     </li>
-                    <li>CSS3<i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                    <li>CSS3
+                      <span class="right">
+                        <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                      </span>
                     </li>
-                    <li>HTML5<i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                    <li>HTML5
+                      <span class="right">
+                        <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                      </span>
                     </li>
-                    <li>XHTML<i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                    <li>XHTML
+                      <span class="right">
+                        <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                      </span>
                     </li>
-                    <li>Servers<i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                    <li>Servers
+                      <span class="right">
+                        <i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i><i class="general foundicon-star"></i>
+                      </span>
+
                     </li>
                 </ul>
             </div>
