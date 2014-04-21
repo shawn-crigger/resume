@@ -1,6 +1,6 @@
 
 		<!-- Start work history -->
-<nav class="top-bar" data-topbar style="padding-bottom:20px">
+<nav class="top-bar" data-topbar style="margin-bottom:20px">
   <ul class="title-area">
     <li class="name">
       <h1><a href="/index.php">My Resume</a></h1>
