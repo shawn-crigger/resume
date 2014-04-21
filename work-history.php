@@ -2,11 +2,15 @@
   include './inc/head.php';
   include './inc/topbar.php';
 ?>
-		<div class="panel callout radius">
-			<h2>
-				Work History
-			</h2>
+		<div class="row">
+			<div class="large-12 medium-12 columns center">
+				<div class="panel callout radius">
+					<h2>Work History</h2>
+					<strong>This is still under serious work. Don't judge!</strong>
+				</div>
+			</div>
 		</div>
+
 		<div class="row">
 			<div class="large-4 medium-4 columns work-history">
 				<h3>
